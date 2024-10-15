@@ -23,7 +23,7 @@ function verificarRespuesta(Pregunta1, respuestaUsuario) {
 
 let continuar = true
 while (continuar) {
-    let quiz = parseInt(prompt("Completa las 5 preguntas correctamente para ganar el juego, \n 1- Pregunta sobre Matemática, \n 2- Pregunta sobre Ciencia, \n 3- Pregunta sobre Historia, \n 4- Pregunta sobre Entretenimiento, \n 5- Pregunta sobre Deporte, \n 6- Para salir "))
+    let quiz = parseInt(prompt("Completa las 5 preguntas correctamente para ganar el juego: \n 1- Pregunta sobre Matemática \n 2- Pregunta sobre Ciencia \n 3- Pregunta sobre Historia \n 4- Pregunta sobre Entretenimiento \n 5- Pregunta sobre Deporte \n 6- Para salir "))
 
     if (quiz >= 1 && quiz <= 5) {
         let Pregunta1 = quiz - 1 
