@@ -1,0 +1,38 @@
+{
+  "matematicas": [
+    { "pregunta": "2 + 2 = 4. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "5 - 3 = 1. ", "respuestaCorrecta": "falso" },
+    { "pregunta": "3 * 3 = 9. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "10 / 2 = 4. ", "respuestaCorrecta": "falso" },
+    { "pregunta": "7 + 5 = 12. ", "respuestaCorrecta": "verdadero" }
+  ],
+  "ciencia": [
+    { "pregunta": "El agua hierve a 100 grados Celsius. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "La tierra es plana. ", "respuestaCorrecta": "falso" },
+    { "pregunta": "El sol es una estrella. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "Los humanos pueden respirar bajo el agua. ", "respuestaCorrecta": "falso" },
+    { "pregunta": "Los pingüinos pueden volar. ", "respuestaCorrecta": "falso" }
+  ],
+  "historia": [
+    { "pregunta": "Cristóbal Colón descubrió América en 1492. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "La Revolución Francesa ocurrió en 1789. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "Napoleón Bonaparte fue un emperador romano. ", "respuestaCorrecta": "falso" },
+    { "pregunta": "La Guerra Civil Americana fue entre 1861 y 1865. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "La primera guerra mundial comenzó en 1914. ", "respuestaCorrecta": "verdadero" }
+  ],
+  "entretenimiento": [
+    { "pregunta": "Harry Potter es un personaje de Marvel. ", "respuestaCorrecta": "falso" },
+    { "pregunta": "La película Titanic fue dirigida por James Cameron. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "El primer videojuego fue Pong. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "El actor que hizo de Iron Man es Robert Downey Jr. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "El anime es originario de Francia. ", "respuestaCorrecta": "falso" }
+  ],
+  "deporte": [
+    { "pregunta": "El fútbol se juega con una pelota ovalada. ", "respuestaCorrecta": "falso" },
+    { "pregunta": "Usain Bolt es un famoso velocista. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "La NBA es la liga de fútbol americano. ", "respuestaCorrecta": "falso" },
+    { "pregunta": "El rugby es un deporte de contacto. ", "respuestaCorrecta": "verdadero" },
+    { "pregunta": "Michael Phelps es un nadador famoso. ", "respuestaCorrecta": "verdadero" }
+  ]
+}
+  
